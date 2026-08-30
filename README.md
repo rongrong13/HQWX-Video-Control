@@ -34,7 +34,7 @@
 ### 方法一：通过油猴（Tampermonkey）直接安装
 
 1. 确保浏览器已安装 [Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)。
-2. 点击 **[安装脚本（raw）](https://raw.githubusercontent.com/rongrong13/HQWX-Video-Control/refs/heads/main/HQWX-Video-Control.js)**（请替换为你的 raw 链接）。
+2. 点击 **[安装脚本（raw）](https://greasyfork.org/zh-CN/scripts/593564-hqwx-video-control)**。
 3. 油猴会自动识别，点击“安装”即可。
 
 ### 方法二：手动创建脚本
