@@ -40,7 +40,7 @@
 ### 方法二：手动创建脚本
 
 1. 打开油猴管理面板，点击“添加新脚本”。
-2. 删除默认模板，将 [完整脚本代码](https://raw.githubusercontent.com/你的用户名/仓库名/main/脚本名.user.js) 复制进去。
+2. 删除默认模板，将 [完整脚本代码](https://raw.githubusercontent.com/rongrong13/HQWX-Video-Control/refs/heads/main/HQWX-Video-Control.js) 复制进去。
 3. 保存并刷新环球网校视频页面即可使用。
 
 ---
